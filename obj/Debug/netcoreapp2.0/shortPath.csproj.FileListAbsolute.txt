@@ -1,0 +1,11 @@
+D:\OpenSource\shortPath\obj\Debug\netcoreapp2.0\shortPath.csproj.CoreCompileInputs.cache
+D:\OpenSource\shortPath\obj\Debug\netcoreapp2.0\shortPath.AssemblyInfoInputs.cache
+D:\OpenSource\shortPath\obj\Debug\netcoreapp2.0\shortPath.AssemblyInfo.cs
+D:\OpenSource\shortPath\bin\Debug\netcoreapp2.0\shortPath.deps.json
+D:\OpenSource\shortPath\bin\Debug\netcoreapp2.0\shortPath.runtimeconfig.json
+D:\OpenSource\shortPath\bin\Debug\netcoreapp2.0\shortPath.runtimeconfig.dev.json
+D:\OpenSource\shortPath\bin\Debug\netcoreapp2.0\shortPath.dll
+D:\OpenSource\shortPath\bin\Debug\netcoreapp2.0\shortPath.pdb
+D:\OpenSource\shortPath\obj\Debug\netcoreapp2.0\shortPath.dll
+D:\OpenSource\shortPath\obj\Debug\netcoreapp2.0\shortPath.pdb
+D:\OpenSource\shortPath\obj\Debug\netcoreapp2.0\shortPath.csprojResolveAssemblyReference.cache

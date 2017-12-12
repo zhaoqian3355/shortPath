@@ -18,6 +18,12 @@ namespace shortPath
         public string train_class_name { get; set; }
         public int Id { get; set; }
 
+        public bool is_select{get;set;}
+
         public List<TrainStationView> TrainStationViews{get;set;}
+
+        public TrainStationView NextStation { get; set; }
+
+        public List<string> TrainCodes { get; set; }
     }
 }

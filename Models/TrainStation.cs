@@ -16,5 +16,6 @@ namespace shortPath
         public string stopover_time { get; set; }
         public string train_class_name { get; set; }
         public int Id { get; set; }
+        public bool is_select{get;set;}
     }
 }
